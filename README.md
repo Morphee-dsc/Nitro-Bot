@@ -13,3 +13,5 @@ Pour lancer le bot ouvrir un terminal et écrire : npm i && node . (SAUF SI TERM
 Si terminal de studio code veuillez faire : npm i ET ensuite faire la commande node .
 
 [N'hésitez pas a join le discord](https://discord.gg/j3Gemz3xBD) (je reste un débutant alors soyez indulgents mes bebou)
+
+LE TOKEN EST A METTRE 2 FOIS DANS L'index.js !!!!
