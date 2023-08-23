@@ -14,4 +14,4 @@ Si terminal de studio code veuillez faire : npm i ET ensuite faire la commande n
 
 [N'hésitez pas a join le discord](https://discord.gg/j3Gemz3xBD) (je reste un débutant alors soyez indulgents mes bebou)
 
-LE TOKEN EST A METTRE 2 FOIS DANS L'index.js !!!!
+LE TOKEN EST A METTRE 2 FOIS DANS L'index.js !!!! (ligne 42 et 230)
