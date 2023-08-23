@@ -1,4 +1,4 @@
-bot créé par xwqh et les quelques petit bug réglés 
+bot créé par xwqh et les quelques petit bug réglés par lxcraa.
 
 Prefix : "/"
 
